@@ -1,2 +1,0 @@
-# MPL-Homework
-MatPlotLib Homework
